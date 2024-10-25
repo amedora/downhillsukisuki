@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ダウンヒル☆スキスキ",
-  description: "ダウンヒルスケートボードの情報",
+  description: "ダウンヒルスケートボードの雑多なメモ",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -13,10 +13,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'パーツ',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'デッキ', link: '/parts/decks.md' },
+          { text: 'アクセサリー・装備品', link: '/parts/accessaries.md' }
+        ]
+      },
+      {
+        text: 'そのほか',
+        items: [
+          { text: 'ダウンヒル用語', link: '/others/words.md' }
         ]
       }
     ],
