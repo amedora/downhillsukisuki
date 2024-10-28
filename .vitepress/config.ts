@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/downhillsukisuki/',
   title: "ダウンヒル☆スキスキ",
   description: "ダウンヒルスケートボードの雑多なメモ",
   themeConfig: {
