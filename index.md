@@ -4,22 +4,14 @@ layout: home
 
 hero:
   name: "ダウンヒル☆スキスキ"
-  text: "ダウンヒルスケートボードの情報"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  tagline: "ダウンヒルスケートボードの情報"
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: パーツ
+    details: ダウンヒル用のパーツの詳細、選び方
+    link: /parts/decks
+  - title: 用語集
+    details: マニアックなダウンヒル用語の解説
+    link: /others/words
 ---
 
