@@ -3,6 +3,12 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/downhillsukisuki/',
+  head: [
+    [
+      'meta',
+      { name: 'google-site-verification', content: 'Q1e4oGLzPzrWJBlu6M96IU67sqBu8N6tvlM9_bJGcB4' }
+    ]
+  ],
   title: "ダウンヒル☆スキスキ",
   description: "ダウンヒルスケートボードの雑多なメモ",
   themeConfig: {
