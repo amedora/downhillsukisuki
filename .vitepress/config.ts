@@ -22,6 +22,7 @@ export default defineConfig({
         text: 'パーツ',
         items: [
           { text: 'デッキ', link: '/parts/decks.md' },
+          { text: 'トラック', link: '/parts/trucks.md' },
           { text: 'アクセサリー・装備品', link: '/parts/accessaries.md' }
         ]
       },
