@@ -9,6 +9,10 @@ export default defineConfig({
       { name: 'google-site-verification', content: 'Q1e4oGLzPzrWJBlu6M96IU67sqBu8N6tvlM9_bJGcB4' }
     ]
   ],
+  sitemap: {
+    hostname: 'https://amedora.github.io/downhillsukisuki/',
+    lastmodDateOnly: true
+  },
   title: "ダウンヒル☆スキスキ",
   description: "ダウンヒルスケートボードの雑多なメモ",
   themeConfig: {
