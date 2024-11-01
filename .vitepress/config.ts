@@ -31,6 +31,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'HOWTO',
+        items: [
+          { text: 'セッティング', link: '/howtos/settings.md' }
+        ]
+      },
+      {
         text: 'そのほか',
         items: [
           { text: 'ダウンヒル用語', link: '/others/words.md' }
