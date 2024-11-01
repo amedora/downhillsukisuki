@@ -18,7 +18,27 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' }
+      { text: 'Home', link: '/' },
+      {
+        text: 'パーツ',
+        items: [
+          { text: 'デッキ', link: '/parts/decks.md' },
+          { text: 'トラック', link: '/parts/trucks.md' },
+          { text: 'アクセサリー・装備品', link: '/parts/accessaries.md' }
+        ]
+      },
+      {
+        text: 'HOWTO',
+        items: [
+          { text: 'セッティング', link: '/howtos/settings.md' }
+        ]
+      },
+      {
+        text: 'そのほか',
+        items: [
+          { text: 'ダウンヒル用語', link: '/others/words.md' }
+        ]
+      }
     ],
 
     sidebar: [
