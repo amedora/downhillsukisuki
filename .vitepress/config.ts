@@ -24,6 +24,7 @@ export default defineConfig({
         items: [
           { text: 'デッキ', link: '/parts/decks.md' },
           { text: 'トラック', link: '/parts/trucks.md' },
+          { text: 'ウィール', link: '/parts/wheels.md' },
           { text: 'アクセサリー・装備品', link: '/parts/accessaries.md' }
         ]
       },
@@ -47,6 +48,7 @@ export default defineConfig({
         items: [
           { text: 'デッキ', link: '/parts/decks.md' },
           { text: 'トラック', link: '/parts/trucks.md' },
+          { text: 'ウィール', link: '/parts/wheels.md' },
           { text: 'アクセサリー・装備品', link: '/parts/accessaries.md' }
         ]
       },
