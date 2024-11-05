@@ -139,6 +139,9 @@ Truncated Tesseractはゲートウェイデッキとしてお勧めされるこ�
 
 日本人ではSo Tanaka君が所属。
 
+『ダウンヒルガールズ』のフーカちゃんが初めて乗ったデッキが
+LandyachtzのEvo。
+
 ### ROCKET Longboards
 
 すんごい高いのに案外日本で乗ってる人多い。
