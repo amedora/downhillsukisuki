@@ -31,7 +31,8 @@ export default defineConfig({
       {
         text: 'HOWTO',
         items: [
-          { text: 'セッティング', link: '/howtos/settings.md' }
+          { text: 'セッティング', link: '/howtos/settings.md' },
+          { text: 'ライディング', link: '/howtos/riding.md' }
         ]
       },
       {
@@ -55,7 +56,8 @@ export default defineConfig({
       {
         text: 'HOWTO',
         items: [
-          { text: 'セッティング', link: '/howtos/settings.md' }
+          { text: 'セッティング', link: '/howtos/settings.md' },
+          { text: 'ライディング', link: '/howtos/riding.md' }
         ]
       },
       {
